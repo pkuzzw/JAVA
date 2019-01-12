@@ -1,0 +1,1159 @@
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:.lock size=0
+CountFile--start
+isFile
+file-name:version.ini size=100
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:properties.index size=282
+CountFile--start
+isFile
+file-name:properties.version size=1
+CountFile--start
+isFile
+file-name:history.version size=1
+CountFile--start
+isFile
+file-name:6.tree size=745
+CountFile--start
+isFile
+file-name:.markers.snap size=171
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:org.eclipse.core.resources size=6764
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:a0ba32fb3e16001915d499ef790e109d size=669
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:b08d1de30715001919ecbdac57a70f68 size=400
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:c0b7b88f081500191f74e8070c4ce3bf size=0
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:002ebeab081500191f74e8070c4ce3bf size=48
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:505c1bb2081500191f74e8070c4ce3bf size=127
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:10329d566a15001913b7de4e881e4bc3 size=128
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:1020765d6a15001913b7de4e881e4bc3 size=185
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:800e05c03716001915d499ef790e109d size=0
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:900012243816001915d499ef790e109d size=88
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:b0d4e9343816001915d499ef790e109d size=434
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:8084b0393816001915d499ef790e109d size=454
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:d03892493816001915d499ef790e109d size=456
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:c06ded5a3816001915d499ef790e109d size=467
+CountFile--start
+isFile
+file-name:8076ca303a16001915d499ef790e109d size=709
+CountFile--start
+isFile
+file-name:708c41003e16001915d499ef790e109d size=606
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:a03a2c6f3816001915d499ef790e109d size=399
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:10891dab3816001915d499ef790e109d size=383
+CountFile--start
+isFile
+file-name:a0d465e83b16001915d499ef790e109d size=635
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:20fd60b63816001915d499ef790e109d size=509
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:3099bfec3816001915d499ef790e109d size=0
+CountFile--start
+isFile
+file-name:d068c0163f16001915d499ef790e109d size=782
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:5050eb933916001915d499ef790e109d size=509
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:80b3bdb03916001915d499ef790e109d size=625
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:601574ef3916001915d499ef790e109d size=626
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:1012230c3a16001915d499ef790e109d size=709
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:9013f5803a16001915d499ef790e109d size=18
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:e0c83ae53a16001915d499ef790e109d size=712
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:30607c0c3b16001915d499ef790e109d size=710
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:30c8f7413b16001915d499ef790e109d size=710
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:c06ee4c33b16001915d499ef790e109d size=629
+CountFile--start
+isFile
+file-name:60cca1ba3e16001915d499ef790e109d size=588
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:a01536c83b16001915d499ef790e109d size=635
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:90849ef13b16001915d499ef790e109d size=734
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:708f0ff53b16001915d499ef790e109d size=734
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:701f33003c16001915d499ef790e109d size=734
+CountFile--start
+isFile
+file-name:30da16603c16001915d499ef790e109d size=0
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:f0ec0c063c16001915d499ef790e109d size=635
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:009c020b3c16001915d499ef790e109d size=629
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:f0e6b9133c16001915d499ef790e109d size=624
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:a02088f03d16001915d499ef790e109d size=51
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:e01045f93d16001915d499ef790e109d size=615
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:908358093e16001915d499ef790e109d size=620
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:008590a03e16001915d499ef790e109d size=658
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:b01811d23e16001915d499ef790e109d size=657
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:e0df09d83e16001915d499ef790e109d size=665
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:80382e0b3f16001915d499ef790e109d size=711
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:20a4bd3d3f16001915d499ef790e109d size=774
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:7021c3c93f16001915d499ef790e109d size=833
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:20356cd53f16001915d499ef790e109d size=834
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:history.index size=70
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:history.index size=481
+CountFile--start
+isFile
+file-name:history.index size=65
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:.markers.snap size=1996
+CountFile--start
+isFile
+file-name:.syncinfo.snap size=144
+CountFile--start
+isFile
+file-name:6.snap size=2693
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:logback.1.10.0.20181127-2120.xml size=1713
+CountFile--start
+isFile
+file-name:0.log size=1457
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:workingsets.xml size=666
+CountFile--start
+isFile
+file-name:dialog_settings.xml size=1100
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:org.eclipse.mylyn.context.core.prefs size=60
+CountFile--start
+isFile
+file-name:org.eclipse.mylyn.monitor.ui.prefs size=95
+CountFile--start
+isFile
+file-name:org.eclipse.jst.j2ee.webservice.ui.prefs size=56
+CountFile--start
+isFile
+file-name:org.eclipse.ui.workbench.prefs size=368
+CountFile--start
+isFile
+file-name:org.eclipse.m2e.discovery.prefs size=71
+CountFile--start
+isFile
+file-name:org.eclipse.jdt.launching.prefs size=446
+CountFile--start
+isFile
+file-name:org.eclipse.jdt.junit.prefs size=105
+CountFile--start
+isFile
+file-name:org.eclipse.pde.api.tools.prefs size=48
+CountFile--start
+isFile
+file-name:org.eclipse.ant.ui.prefs size=84
+CountFile--start
+isFile
+file-name:org.eclipse.wst.jsdt.ui.prefs size=359
+CountFile--start
+isFile
+file-name:org.eclipse.mylyn.java.ui.prefs size=119
+CountFile--start
+isFile
+file-name:org.eclipse.jst.jsp.core.prefs size=120
+CountFile--start
+isFile
+file-name:org.eclipse.debug.ui.prefs size=194
+CountFile--start
+isFile
+file-name:org.eclipse.ui.editors.prefs size=67
+CountFile--start
+isFile
+file-name:org.eclipse.core.resources.prefs size=40
+CountFile--start
+isFile
+file-name:org.eclipse.mylyn.tasks.ui.prefs size=238
+CountFile--start
+isFile
+file-name:org.eclipse.ui.prefs size=46
+CountFile--start
+isFile
+file-name:org.eclipse.jdt.ui.prefs size=945
+CountFile--start
+isFile
+file-name:org.eclipse.jdt.core.prefs size=525
+CountFile--start
+isFile
+file-name:org.eclipse.ui.ide.prefs size=124
+CountFile--start
+isFile
+file-name:org.eclipse.rse.core.prefs size=56
+CountFile--start
+isFile
+file-name:org.eclipse.wst.ws.service.policy.prefs size=282
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark size=0
+CountFile--start
+isFile
+file-name:.log size=0
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:index.db size=0
+CountFile--start
+isFile
+file-name:variablesAndContainers.dat size=456
+CountFile--start
+isFile
+file-name:nonChainingJarsCache size=41
+CountFile--start
+isFile
+file-name:externalFilesCache size=75
+CountFile--start
+isFile
+file-name:assumedExternalFilesCache size=4
+CountFile--start
+isFile
+file-name:javaLikeNames.txt size=4
+CountFile--start
+isFile
+file-name:savedIndexNames.txt size=122
+CountFile--start
+isFile
+file-name:externalLibsTimeStamps size=49
+CountFile--start
+isFile
+file-name:1852061804.index size=40864136
+CountFile--start
+isFile
+file-name:2025060907.index size=1396
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:QualifiedTypeNameHistory.xml size=83
+CountFile--start
+isFile
+file-name:OpenTypeHistory.xml size=74
+CountFile--start
+isFile
+file-name:dialog_settings.xml size=4871
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:0.png size=294
+CountFile--start
+isFile
+file-name:1.png size=345
+CountFile--start
+isFile
+file-name:2.png size=386
+CountFile--start
+isFile
+file-name:3.png size=635
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:test001.launch size=705
+CountFile--start
+isFile
+file-name:DirDemo04.launch size=709
+CountFile--start
+isFile
+file-name:FileLength.launch size=711
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:introstate size=61
+CountFile--start
+isFile
+file-name:dialog_settings.xml size=129
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:dialog_settings.xml size=77
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:workspace.setup size=197
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:libraryInfos.xml size=150
+CountFile--start
+isFile
+file-name:.install.xml size=132
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:dialog_settings.xml size=149
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:workbench.xmi size=514040
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:webLibrariesCache.index size=272
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:earLibrariesCache.index size=385
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:savedIndexNames.txt size=201
+CountFile--start
+isFile
+file-name:3070904283.index size=23
+CountFile--start
+isFile
+file-name:1732868773.index size=9383
+CountFile--start
+isFile
+file-name:3360046212.index size=23110
+CountFile--start
+isFile
+file-name:3204595481.index size=7540
+CountFile--start
+isFile
+file-name:1135456504.index size=1340
+CountFile--start
+isFile
+file-name:2624291422.index size=6572
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:system.js size=39675
+CountFile--start
+isFile
+file-name:baseBrowserLibrary.js size=159235
+CountFile--start
+isFile
+file-name:browserWindow.js size=13584
+CountFile--start
+isFile
+file-name:xhr.js size=2748
+CountFile--start
+isFile
+file-name:dom5.js size=23458
+CountFile--start
+isFile
+file-name:variablesAndContainers.dat size=12
+CountFile--start
+isFile
+file-name:externalLibsTimeStamps size=528
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:clean-cache.properties size=49
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:QualifiedTypeNameHistory.xml size=83
+CountFile--start
+isFile
+file-name:OpenTypeHistory.xml size=74
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:task-tags.properties size=72
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:launchConfigurationHistory.xml size=2674
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:org.eclipse.jdt.helloworld.xml size=153
+CountFile--start
+isFile
+file-name:history.xml size=183
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:refactorings.history size=322
+CountFile--start
+isFile
+file-name:refactorings.index size=38
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:refactorings.history size=1611
+CountFile--start
+isFile
+file-name:refactorings.index size=114
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:dialog_settings.xml size=202
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:repositories.xml.zip size=561
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:write.lock size=0
+CountFile--start
+isFile
+file-name:segments_1 size=71
+CountFile--start
+isFile
+file-name:.tasks.xml.zip size=235
+CountFile--start
+isFile
+file-name:tasks.xml.zip size=235
+CountFile--start
+isFile
+file-name:.log size=41977
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:.project size=874
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:helloworld.java size=120
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:helloworld.class size=493
+CountFile--start
+isFile
+file-name:.classpath size=575
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:org.eclipse.jdt.core.prefs size=400
+CountFile--start
+isFile
+file-name:org.eclipse.wst.common.project.facet.core.xml size=295
+CountFile--start
+isFile
+file-name:org.eclipse.wst.common.component size=459
+CountFile--start
+isFile
+file-name:.jsdtscope size=555
+CountFile--start
+isFile
+file-name:org.eclipse.wst.jsdt.ui.superType.name size=6
+CountFile--start
+isFile
+file-name:org.eclipse.wst.jsdt.ui.superType.container size=49
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:MANIFEST.MF size=39
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:.project size=366
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:test001.java size=187
+CountFile--start
+isFile
+file-name:DirDemo04.java size=631
+CountFile--start
+isFile
+file-name:FileLength.java size=834
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:test001.class size=619
+CountFile--start
+isFile
+file-name:DirDemo04.class size=1177
+CountFile--start
+isFile
+file-name:FileLength.class size=1556
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:org.eclipse.jdt.core.prefs size=630
+CountFile--start
+isFile
+file-name:.classpath size=386
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:master size=41
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:master size=41
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:description size=73
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:applypatch-msg.sample size=452
+CountFile--start
+isFile
+file-name:commit-msg.sample size=896
+CountFile--start
+isFile
+file-name:post-update.sample size=189
+CountFile--start
+isFile
+file-name:pre-applypatch.sample size=398
+CountFile--start
+isFile
+file-name:pre-commit.sample size=1704
+CountFile--start
+isFile
+file-name:pre-push.sample size=1348
+CountFile--start
+isFile
+file-name:pre-rebase.sample size=4951
+CountFile--start
+isFile
+file-name:prepare-commit-msg.sample size=1239
+CountFile--start
+isFile
+file-name:update.sample size=3611
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:exclude size=240
+CountFile--start
+isFile
+file-name:HEAD size=23
+CountFile--start
+isFile
+file-name:config size=193
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:4800d3c97c210e833c6f1bed4106b6644f91c1 size=243
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:d6370fc8087739d42c8d7e4e250fa2e4645f73 size=209
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:561585ad357af6cf100bfd640f43eb0b26a2fe size=212
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:34328eae14664a749ca6cc47dc0fb3582a55c1 size=413
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:0552cf87481a9ff2c19b70d902c1626f3a78d0 size=156
+CountFile--start
+isFile
+file-name:75b4a7bc9d2f0c172f1f9a1c368a5dc8b4c05c size=50
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:c142c65841580e652dd8c84af247e37a77201d size=290
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:f351431a323e898583e2cd35fa511857c67925 size=302
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:e666d77dd95f33f7fc056a45049f2034b90ab8 size=280
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:b31272a16ec0971089f15d7bc8a6b99430cd04 size=158
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:29266a95c0a597de8ff0da81145ac6040ac330 size=255
+CountFile--start
+isFile
+file-name:bd71b6ec2c1982d1e8a5653073281994564ae8 size=21
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:b1dc05c4271dc7fa9c3561be2cc81d1444c865 size=154
+CountFile--start
+isFile
+file-name:5867f3cc8ab3a4ce2cd35b77598f5d5b01db66 size=44
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:d5d0a4803967bc0bf72a7dd66d7e292ed2e586 size=65
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:9495128c0376427420c4189993b3851770b702 size=55
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:9859390e1c482c0cd201d37fdb395781d14332 size=344
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:03bb768cc909de65d68bbb78b2e5a6625964be size=121
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:51dc0612dee93257696568b16ffba10ddbb1b9 size=71
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:d558360aea75cc8d4a7295a0b1ca98bb24d2f0 size=58
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:bb6ee9d8bb7d97d3e130ad531041e995e74f5e size=47
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:55bfa9f06f94c8808b1c92ceea9356c6fc5c5f size=46
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:1bde767c9738e25959244e2086da12cc126f5e size=45
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:cdc1e4751dc61cc549787bbc27ed09f2572e9c size=57
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:0b1123207712f904c4f983c44c649d932f57a5 size=46
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:4669753c0a382d604e114af29f0274cb9698c7 size=45
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:39bef005ee9fc5b01159f12af7e1b457f84f4d size=175
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:3846e74cc0fe4bbb02ba8cf31a262911b9cc0d size=265
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:c9380fd9bea5059bec7dce0c817766f38477d8 size=56
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:3dd0117a9ec1c0bf5e3d4e6ba451ec11b788f4 size=50
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:672a6992ea536f746e4fd3d80dab4c7d5e277c size=60
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:274df6de347e6f44b5d08aab9b0ed75545ee18 size=46
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:3546a79b9c3d37a8ab69b4dcac4cd5c292e084 size=45
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:0de4d982de1ed03a52d4aabb4943fef4bcb25e size=45
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:7ab7ca86b8f1fce4b3c38813eb377bfcea4660 size=60
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:74e4fa0f57995e3affc11f2de2d62824b0aa03 size=47
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:8962dc04e9bf7080377cf0ef151adf36e756ff size=45
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:54410bd913db185f53f16b02f7843dd1e67720 size=44
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:6cd5cda6734cf4cb0db079df2a01c4d768fcde size=212
+CountFile--start
+isFile
+file-name:910bbc3559cc0f6c58434c2217b6ae19878454 size=31
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:92a4c4023ef7419d7e34ae6bd4f3d26dfe2e47 size=79
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:544c69ec8fde83394f2c60a668f772bb09d18e size=129
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:027a35e9662bc590ba1aea428a62c69055a4f0 size=511
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:a36d207e156f251c1bfbe6ba766ad7decacea1 size=53
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:74946dec4ab2cd267951cbeb1c22b2136bc14f size=118
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:dbcfe4ff1779939f31283128bc504539bd0f82 size=214
+CountFile--start
+isFile
+file-name:index size=2483
+CountFile--start
+isFile
+file-name:COMMIT_EDITMSG size=19
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:master size=347
+CountFile--start
+isDirectory
+CountFile--start
+isDirectory
+CountFile--start
+isFile
+file-name:master size=140
+CountFile--start
+isFile
+file-name:HEAD size=347
+CountFile--start
+isFile
+file-name:FETCH_HEAD size=84
+CountFile--start
+isFile
+file-name:ORIG_HEAD size=41
+CountFile--start
+isFile
+file-name:README.md size=18
+41809307
