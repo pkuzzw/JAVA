@@ -1,1 +1,8 @@
 He我水电费安抚nihao
+	public static void close(InputStream is,OutputStream os) {
+		if (os != null) {
+			try {
+				os.close();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
