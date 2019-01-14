@@ -7,11 +7,12 @@ import java.io.IOException;
 import java.io.InputStream;
 
 /**
- * 第一个测试IO程序
- * 
- * 
+ *第一个测试IO程序
+ *第一步  创建源
+ *第二步  选择流
+ *第三步  操作
+ *第四步  释放
  * @author zzw
- *
  */
 
 public class IOTest01 {

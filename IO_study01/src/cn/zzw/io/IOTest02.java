@@ -12,11 +12,12 @@ import java.io.IOException;
 import java.io.InputStream;
 
 /**
- * 第一个测试IO程序
- * 
- * 
- * @author zzw
- *
+ *第一个测试IO程序
+ *第一步  创建源
+ *第二步  选择流
+ *第三步  操作
+ *第四步  释放
+ *@author zzw
  */
 
 public class IOTest02 {
@@ -30,7 +31,7 @@ public class IOTest02 {
 			insStream=new FileInputStream(srcFile);
 			int len;
 			while ((len=insStream.read())!=-1) {
-				System.out.println((char)len);				
+				System.out.println((char)len);	//这个地方只读出来一个字节,如果是中文,就会出现乱码			
 			}
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
