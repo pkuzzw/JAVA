@@ -1,3 +1,8 @@
+/**
+ * 利用While数组读取一整个文件
+ */
+
+
 package cn.zzw.io;
 
 import java.io.File;
@@ -14,7 +19,7 @@ import java.io.InputStream;
  *
  */
 
-public class IOTest01 {
+public class IOTest02 {
 	public static void main(String[] args) {
 		//第一步 创建源
 		File srcFile=new File("abc.txt");
@@ -23,8 +28,10 @@ public class IOTest01 {
 		//第三步 操作
 		try {
 			insStream=new FileInputStream(srcFile);
-			int data=insStream.read();
-			System.out.println("data="+data+" character="+(char)data);
+			int len;
+			while ((len=insStream.read())!=-1) {
+				System.out.println((char)len);				
+			}
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		} catch (IOException e) {
