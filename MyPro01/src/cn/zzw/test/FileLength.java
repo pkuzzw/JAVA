@@ -14,17 +14,47 @@ public class FileLength {
 	private long length;
 	private String path;
 	private File src;
+	private int folderNumber;//文件个数
+	private int filenumbers;
 	public  FileLength(String path) {
 		this.path=path;
+		this.folderNumber=-1;
 		this.src=new File(this.path);
 		getLength(this.src);
 		
 	}
+	
+	public long getLength() {
+		return length;
+	}
+
+	public void setLength(long length) {
+		this.length = length;
+	}
+
+	public int getFolderNumber() {
+		return folderNumber;
+	}
+
+	public void setFolderNumber(int folderNumber) {
+		this.folderNumber = folderNumber;
+	}
+
+	public int getFilenumbers() {
+		return filenumbers;
+	}
+
+	public void setFilenumbers(int filenumbers) {
+		this.filenumbers = filenumbers;
+	}
+
 	private void getLength(File srcFile) {
 		if (null!=srcFile && srcFile.exists()) {
 			if(srcFile.isFile()) {
+				this.filenumbers++;
 				this.length+=srcFile.length();
 			} else if (srcFile.isDirectory()) {
+				this.folderNumber++;
 				for (File file : srcFile.listFiles()) {
 					getLength(file);
 				}
@@ -35,11 +65,10 @@ public class FileLength {
 	} 
 	
 	public static void main(String[] args) {
-		String filepath="/home/zzw/eclipse-workspace";
-	   String file1path="/home/zzw/eclipse-workspace/MyPro01";
-//		File srcFile= new File(filepath);
-	   FileLength test1=new FileLength(filepath);
-	   System.out.println(test1.length);
+       FileLength test1=new FileLength("/home/zzw/eclipse-workspace/MyPro01/src/cn/zzw");
+	   System.out.println(test1.getLength());
+	   System.out.println("folderNumber="+test1.getFolderNumber());
+	   System.out.println("filenumbers="+test1.getFilenumbers());
 	   
 		
 		
