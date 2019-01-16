@@ -1,19 +1,22 @@
 package cn.zzw.io;
 
+import java.io.BufferedInputStream;
+import java.io.BufferedOutputStream;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
+import java.sql.Date;
 
 /**
  * 使用FileInputStream 和FileOutputStream实现文件的复制功能 第一步 创建源 第二步 选择流 第三步 操作 第四步 释放
- * 
+ * 添加缓冲流BufferedInputStream以及BufferedOutputStream
  * @author zzw
  */
 
-public class Copy {
+public class Copy02 {
 
 	public static void CopyFile(String srcPath, String destPath) {
 		// 第一步 创建源
@@ -22,11 +25,11 @@ public class Copy {
 		File src = new File(srcPath);
 		File dest = new File(destPath);
 		// 第二步 选择流
-		FileOutputStream os = null;
-		FileInputStream is = null;
+		BufferedOutputStream os = null;
+		BufferedInputStream is = null;
 		try {
-			is = new FileInputStream(src);
-			os = new FileOutputStream(dest);
+			is = new BufferedInputStream(new FileInputStream(src));
+			os = new BufferedOutputStream(new FileOutputStream(dest));
 
 			// 操作
 			// 利用FileInputStream将文件转为字节数组
@@ -65,15 +68,11 @@ public class Copy {
 	}
 
 	public static void main(String[] args) {
-//		System.out.println("Test Start");
-//		CopyFile("src/cn/zzw/io/Copy.java", "copy.txt");
 		System.out.println("Test Start");
 		long  t1= System.currentTimeMillis();
-		CopyFile("anzhan.mp4", "canzhan1.mp4");
+		CopyFile("anzhan.mp4", "canzhan2.mp4");
 		long  t2=System.currentTimeMillis();
 		System.out.println("Time Ellapsed :"+(t2-t1));
-
-		
 
 		
 	}
