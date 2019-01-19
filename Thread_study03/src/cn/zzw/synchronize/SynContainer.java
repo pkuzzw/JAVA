@@ -1,23 +1,22 @@
 package cn.zzw.synchronize;
 
 import java.util.ArrayList;
+import java.util.concurrent.CopyOnWriteArrayList;//在写的基础上进行拷贝
 import java.util.List;
 
 /**
- * 线程安全 操作容器
+ * 线程安全: 操作并发容器
  * 
  * @author zzw
  *
  */
 
-public class SynBlockTest02 {
+public class SynContainer {
 	public static void main(String[] args) throws InterruptedException {
-		List<String> list=new ArrayList<String>();
+		CopyOnWriteArrayList<String> list=new CopyOnWriteArrayList<String>();
 		for (int i = 0; i < 10000; i++) {
 			new Thread(()->{
-				synchronized (list) {
 					list.add(Thread.currentThread().getName());
-				}
 				}).start();
 		}
 		

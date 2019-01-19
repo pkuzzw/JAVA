@@ -18,6 +18,7 @@ public class SynBlockTest01 {
 		SynDrawing chil=new SynDrawing(account, 20, "孩子");
 		husband.start();
 		wife.start();
+		chil.start();
 	}
 
 }
