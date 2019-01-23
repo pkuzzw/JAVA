@@ -1,7 +1,6 @@
 package cn.zzw.server;
 
 import java.io.IOException;
-import java.io.InputStream;
 import java.net.ServerSocket;
 import java.net.Socket;
 /**
@@ -13,11 +12,11 @@ import java.net.Socket;
  *
  */
 
-public class Server03 {
+public class Server04 {
 	private ServerSocket serverSocket;
 	
 	public static void main(String[] args) {
-		Server03 server=new Server03();
+		Server04 server=new Server04();
 		server.start();
 		
 	}
@@ -40,20 +39,9 @@ public class Server03 {
 			//一个client就代表一个浏览器
 			Socket client=serverSocket.accept();
 			System.out.println("一个客户端建立了连接");
-			
-			
 			//获取请求协议
-			InputStream is=client.getInputStream();
-			byte[] datas=new byte[1024*1024];
-			int len=is.read(datas);
-			System.out.println("读取了\t"+len+"\t数据");
-			String requestInfo=new String(datas,0,len);
-			System.out.println(requestInfo);
-			
-			
+			Request request=new Request(client);
 			Response response=new Response(client);
-			StringBuilder content=new StringBuilder();
-			
 			//关注了内容,同时关注了我们的状态
 			response.print("<html>");
 			response.print("<head>");
