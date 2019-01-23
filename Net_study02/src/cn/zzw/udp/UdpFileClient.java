@@ -29,7 +29,6 @@ public class UdpFileClient {
 		//将文件封装成byte[]字节数组
 		byte[] datas=IOUtils.fileToByteArray("3.jpg");
 		System.out.println("发送数据长度;\t"+datas.length);
-
 		// 3 封装成DatagramPacket 需要指定目的地
 		DatagramPacket packet = new DatagramPacket(datas, datas.length, new InetSocketAddress("localhost", 9999));
 		// 4 发送包裹void send(DatagramPacketp)
