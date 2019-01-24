@@ -40,7 +40,7 @@ public class Server04 {
 			Socket client=serverSocket.accept();
 			System.out.println("一个客户端建立了连接");
 			//获取请求协议
-			Request request=new Request(client);
+			Request1 request=new Request1(client);
 			Response response=new Response(client);
 			//关注了内容,同时关注了我们的状态
 			response.print("<html>");

@@ -17,8 +17,8 @@ import org.apache.commons.io.IOUtils;
 public class CIOTest05 {
 	public static void main(String[] args) throws IOException {
 		//复制文件
-		File src=new File("1.jpg");
-		File dest=new File("2.jpg");
+//		File src=new File("1.jpg");
+//		File dest=new File("2.jpg");
 		//复制文件
 		//FileUtils.copyFile(src, dest);
 		

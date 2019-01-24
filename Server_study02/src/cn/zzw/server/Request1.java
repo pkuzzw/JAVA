@@ -12,7 +12,7 @@ import java.net.URL;
  *
  */
 
-public class Request {
+public class Request1 {
 	//协议信息
 	private String requestInfo;
 	//请求方式
@@ -22,12 +22,12 @@ public class Request {
 	//请求参数
 	private String queryString;
 	private final String CRLF="\r\n";
-	public Request(Socket client) throws IOException{
+	public Request1(Socket client) throws IOException{
 		this(client.getInputStream()); //this只能在首行 ,必须throws
 		
 	}
 	
-	public Request(InputStream is) {
+	public Request1(InputStream is) {
 		byte[] datas=new byte[1024*1024];
 		int len;
 		try {
