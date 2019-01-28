@@ -1,0 +1,27 @@
+package cn.zzw.test;
+
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+/**
+ * 测试正则表达式在JAVA中的使用 
+ */
+
+public class Demo03 {
+	public static void main(String[] args) {
+		//表达式对象
+		Pattern pattern=Pattern.compile("[0-9]");
+		//创建Matcher对象
+		Matcher matcher=pattern.matcher("aa232**ssd445*sds223");
+		
+		//替换
+		String newStr=matcher.replaceAll("#");// 将原来的数字替换为#
+		System.out.println(newStr);
+		
+
+		
+	}
+
+
+	
+}
