@@ -21,7 +21,7 @@ public class Demo02 {
 		try {
 			//建立连接  连接对象内部其实包含了Socket连接   比较耗时 比较耗时  比较耗时 这是Connecion对象管理的一个要点
 			//真正开发中 为了提高连接效率都会使用连接池
-			Connection conn=DriverManager.getConnection("jdbc:mysql://localhost:3306/testJDBC", "root", "123");
+			Connection conn=DriverManager.getConnection("jdbc:mysql://localhost:3306/testJDBC", "root", "123456");
 			Statement statement=conn.createStatement();
 			String sql="";
 //			String sql=" Insert into students(Number,Name,Home,Age) VALUES ('4','WANG','GUANGZHOU','33');"; 
