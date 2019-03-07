@@ -35,6 +35,7 @@ public class StartRun implements Runnable{
 //		t.start();
 		for (int i = 0; i < 20; i++) {
 			System.out.println("一边写代码");
+			
 		}
 	}
 }
